@@ -21,10 +21,10 @@
 * [title](link)
 
 ## Description
-
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
 
 ## User Story
-
+As a user on a social network application i would like to share my thoughts, react to friends thoughts and also create a friends list.
 
 ## Contributors
 
