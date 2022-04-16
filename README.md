@@ -6,8 +6,6 @@
 
 * [Links](#Links)
 
-
-
 * [Description](#Description)
 
 * [User Story](#UserStory)
